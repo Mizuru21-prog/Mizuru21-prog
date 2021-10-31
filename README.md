@@ -1,11 +1,8 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Anas Naufal Al-kiram</h1>
 <h3 align="center">A student at Syiah Kuala University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizuru21-prog&label=Profile%20views&color=0e75b6&style=flat" alt="mizuru21-prog" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizuru21-prog" alt="mizuru21-prog" /></a> </p>
+
 
 - 🌱 I’m currently learning **about Operation System.**
 
@@ -25,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizuru21-prog&" alt="mizuru21-prog" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizuru21-prog&label=Profile%20views&color=0e75b6&style=flat" alt="mizuru21-prog" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizuru21-prog" alt="mizuru21-prog" /></a> </p>
