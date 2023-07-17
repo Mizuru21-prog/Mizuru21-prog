@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning about **Operation System.**
+- 🌱 I’m currently learning about **Network Pharmacology.**
 
 - 📫 How to reach me **alkiramanas09@gmail.com**
 
