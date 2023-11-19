@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anas Naufal Al-kiram</h1>
-<h2 align="center">A student at Syiah Kuala University</h2>
+<h2 align="center">An Informatics Student at Syiah Kuala University</h2>
 
 
 
 
-- 🌱 I’m currently learning about **Network Pharmacology.**
+- 🌱 I’m currently learning about **Network Pharmacology, Machine Learning and Linux.**
 
 - 📫 How to reach me **alkiramanas09@gmail.com**
 
